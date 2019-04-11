@@ -1,2 +1,4 @@
 # Restful-Api
-Fully functional restful api for a price observatory. Technologies used: Spring Framework, MySql
+Fully functional restful api for a price observatory, including JWT authentication
+
+Technologies used: Spring Framework, MySql
